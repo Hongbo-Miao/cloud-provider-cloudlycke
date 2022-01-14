@@ -21,7 +21,7 @@ OS := linux
 MAKEFLAGS += --silent
 
 # Docker vars
-DOCKER_HUB_REPOSITORY := mikejoh
+DOCKER_HUB_REPOSITORY := hongbomiao
 DEFAULT_VERSION_TAG := latest
 
 # Commands
